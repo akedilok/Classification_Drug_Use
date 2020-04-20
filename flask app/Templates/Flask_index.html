@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Likelihood of Illicit Drug Use</title>
+  <link rel="stylesheet" href="http://cdn.pydata.org/bokeh/release/bokeh-1.4.0.min.css" type="text/css" />
+  <script src =  'https://cdn.bokeh.org/bokeh/release/bokeh-1.4.0.min.js'></script>
+  <script src = 'https://cdn.bokeh.org/bokeh/release/bokeh-widgets-1.4.0.min.js'></script>
+  <script src = 'https://cdn.bokeh.org/bokeh/release/bokeh-tables-1.4.0.min.js'></script>
+  <script src = 'https://cdn.bokeh.org/bokeh/release/bokeh-api-1.4.0.min.js'></script>
+  <style>
+  body{
+    font-family: sans-serif;
+    margin: auto;
+  }
+
+  </style>
+
+</head>
+
+<body align="center">
+
+  <h2>Likelihood of Illicit Drug Use</h2>
+
+  <form action="/predict_drugs/" method="post">
+  
+  <div id = "myplot" align = "center">
+      {% block body %}{% endblock %}
+  </div>
+
+</body>
+ 
+</html>

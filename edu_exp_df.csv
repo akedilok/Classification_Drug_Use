@@ -1,0 +1,189 @@
+,country,continent,exp_yr,mean_yr
+0,Australia,Oceania,20.4,13.2
+1,Denmark,Europe,19.2,12.7
+2,New Zealand,Oceania,19.2,12.5
+3,Norway,Europe,17.7,12.7
+4,Germany,Europe,17.1,13.2
+5,Ireland,Europe,18.6,12.3
+6,Iceland,Europe,19.0,12.2
+7,United States,North America,16.5,13.2
+8,Netherlands,Europe,18.1,11.9
+9,United Kingdom,Europe,16.3,13.3
+10,Switzerland,Europe,16.0,13.4
+11,Canada,North America,16.3,13.1
+12,Slovenia,Europe,17.3,12.1
+13,Lithuania,Europe,16.5,12.7
+14,Czech Republic,Europe,16.8,12.3
+15,Estonia,Europe,16.5,12.5
+16,Israel,Asia,16.0,12.8
+17,South Korea,Asia,16.6,12.2
+18,Sweden,Europe,16.1,12.3
+19,Poland,Europe,16.4,11.9
+20,Finland,Europe,17.0,11.2
+21,Japan,Asia,15.3,12.5
+22,Belgium,Europe,16.6,11.4
+23,France,Europe,16.3,11.6
+24,Latvia,Europe,16.0,11.7
+25,Belarus,Europe,15.7,12.0
+26,Hungary,Europe,15.6,12.0
+27,Greece,Europe,17.2,10.5
+28,Slovakia,Europe,15.0,12.2
+29,Hong Kong,Asia,15.7,11.6
+30,Austria,Europe,15.9,11.3
+31,Liechtenstein,Europe,14.6,12.4
+32,Spain,Europe,17.7,9.8
+33,Russian Federation,Europe,15.0,12.0
+34,Italy,Europe,16.3,10.9
+35,Singapore,Asia,15.4,11.6
+36,Argentina,South America,17.3,9.8
+37,Palau,Oceania,14.3,12.3
+38,Kazakhstan,Europe,15.0,11.7
+39,Ukraine,Europe,15.3,11.3
+40,Croatia,Europe,15.3,11.2
+41,Montenegro,Europe,15.1,11.3
+42,Georgia,Europe,13.9,12.2
+43,Cyprus,Europe,14.3,11.7
+44,Chile,South America,16.3,9.9
+45,Luxembourg,Europe,13.9,12.0
+46,Malta,Europe,14.6,11.3
+47,Cuba,North America,13.9,11.8
+48,Bulgaria,Europe,15.0,10.8
+49,Fiji,Oceania,15.3,10.5
+50,Romania,Europe,14.7,10.8
+51,Barbados,North America,15.3,10.5
+52,Saudi Arabia,Asia,16.1,9.6
+53,Tonga,Oceania,14.3,11.1
+54,Serbia,Europe,14.4,10.8
+55,Portugal,Europe,16.6,8.9
+56,Sri Lanka,Asia,14.0,10.9
+57,Uzbekistan,Asia,12.2,12.0
+58,Mongolia,Asia,14.8,9.8
+59,Armenia,Europe,12.7,11.3
+60,Grenada,North America,15.8,8.6
+61,Mauritius,Africa,15.2,9.1
+62,Moldova,Europe,11.8,11.9
+63,Azerbaijan,Europe,12.7,11.2
+64,Kyrgyzstan,Asia,13.0,10.8
+65,Andorra,Europe,13.5,10.3
+66,Bahrain,Asia,14.5,9.4
+67,Trinidad and Tobago,North America,12.7,10.9
+68,Uruguay,South America,15.5,8.6
+69,Brunei Darussalam,Asia,14.9,9.0
+70,Albania,Europe,14.2,9.6
+71,Bahamas,North America,12.7,10.9
+72,Venezuela,South America,14.3,9.4
+73,Seychelles,Africa,14.1,9.4
+74,South Africa,Africa,13.0,10.3
+75,Belize,North America,12.8,10.5
+76,Iran,Asia,14.8,8.8
+77,Samoa,Oceania,12.9,10.3
+78,Jordan,Asia,13.1,10.1
+79,Malaysia,Asia,13.1,10.1
+80,Qatar,Asia,13.4,9.8
+81,Antigua and Barbuda,North America,13.9,9.2
+82,Bosnia and Herzegovina,Europe,14.2,9.0
+83,Panama,North America,13.0,9.9
+84,United Arab Emirates,Asia,13.3,9.5
+85,Costa Rica,North America,14.2,8.7
+86,Brazil,South America,15.2,7.8
+87,Jamaica,North America,12.8,9.6
+88,Saint Lucia,North America,13.1,9.3
+89,Macedonia,Europe,12.9,9.4
+90,Peru,South America,13.4,9.0
+91,Turkey,Europe,14.6,7.9
+92,Ecuador,South America,14.0,8.3
+93,Saint Kitts and Nevis,North America,13.7,8.4
+94,Algeria,Africa,14.4,7.8
+95,Botswana,Africa,12.6,9.2
+96,Tajikistan,Asia,11.3,10.4
+97,Saint Vincent and the Grenadines,North America,13.3,8.6
+98,Bolivia,South America,13.8,8.2
+99,Lebanon,Asia,13.3,8.6
+100,Mexico,North America,13.3,8.6
+101,Palestine,Asia,12.8,8.9
+102,Oman,Asia,13.7,8.1
+103,Micronesia,Oceania,11.7,9.7
+104,Tunisia,Africa,14.6,7.1
+105,Thailand,Asia,13.6,7.9
+106,Philippines,Asia,11.7,9.3
+107,China,Asia,13.5,7.6
+108,Colombia,South America,13.6,7.6
+109,Suriname,South America,12.7,8.3
+110,Turkmenistan,Asia,10.8,9.9
+111,India,Asia,11.7,6.3
+112,Dominican Republic,North America,13.2,7.7
+113,Indonesia,Asia,12.9,7.9
+114,Dominica,North America,12.8,7.9
+115,Gabon,Africa,12.6,8.1
+116,Viet Nam,Asia,12.6,8.0
+117,Libya,Africa,13.4,7.3
+118,Paraguay,South America,12.3,8.1
+119,Kuwait,Asia,13.3,7.3
+120,Egypt,Africa,13.1,7.1
+121,Kiribati,Oceania,11.9,7.8
+122,El Salvador,North America,13.2,6.5
+123,Zambia,Africa,12.5,6.9
+124,Guyana,South America,10.3,8.4
+125,Maldives,Asia,12.7,6.2
+126,Ghana,Africa,11.5,6.9
+127,Pakistan,Asia,12.1,10.1
+128,Namibia,Africa,11.7,6.7
+129,Swaziland,Africa,11.4,6.8
+130,Zimbabwe,Africa,10.3,7.7
+131,Nicaragua,North America,11.7,6.5
+132,Cabo Verde,Africa,13.5,4.8
+133,Vanuatu,Oceania,10.8,6.8
+134,Congo,Africa,11.1,6.3
+135,Honduras,North America,11.2,6.2
+136,Kenya,Africa,11.1,6.3
+137,Sao Tome and Principe,Africa,12.0,5.3
+138,Guatemala,North America,10.7,6.3
+139,Lesotho,Africa,10.7,6.1
+140,Morocco,Africa,12.1,5.0
+141,Iraq,Asia,10.1,6.6
+142,Timor-Leste,Asia,12.5,4.4
+143,Cameroon,Africa,10.4,6.1
+144,Madagascar,Africa,10.3,6.1
+145,Togo,Africa,12.0,4.7
+146,Angola,Africa,11.4,5.0
+147,Nigeria,Africa,10.0,6.0
+148,Democratic Republic of the Congo,Africa,9.8,6.1
+149,Nepal,Asia,12.2,4.1
+150,Laos,Asia,10.8,5.2
+151,Comoros,Africa,11.1,4.8
+152,Uganda,Africa,10.0,5.7
+153,Cambodia,Asia,10.9,4.7
+154,Bangladesh,Asia,10.2,5.2
+155,Bhutan,Asia,12.5,3.1
+156,Malawi,Africa,10.8,4.4
+157,Solomon Islands,Oceania,9.6,5.3
+158,Tanzania,Africa,8.9,5.8
+159,Equatorial Guinea,Africa,9.2,5.5
+160,Rwanda,Africa,10.8,3.8
+161,Haiti,North America,9.1,5.2
+162,Liberia,Africa,9.9,4.4
+163,Papua New Guinea,Oceania,9.9,4.3
+164,Syrian Arab Republic,Asia,9.0,5.1
+165,Cote d'Ivoire,Africa,8.9,5.0
+166,Benin,Africa,10.7,3.5
+167,Myanmar,Asia,9.1,4.7
+168,Afghanistan,Asia,10.1,3.5
+169,Burundi,Africa,10.6,3.0
+170,Mauritania,Africa,8.5,4.3
+171,Sierra Leone,Africa,9.5,3.3
+172,Mozambique,Africa,9.1,3.5
+173,Gambia,Africa,8.9,3.3
+174,Senegal,Africa,9.5,2.8
+175,Guinea-Bissau,Africa,9.2,2.9
+176,Yemen,Asia,9.0,3.0
+177,Central African Republic,Africa,7.1,4.2
+178,Guinea,Africa,8.8,2.6
+179,Ethiopia,Africa,8.4,2.6
+180,Sudan,Africa,7.2,3.5
+181,Mali,Africa,8.4,2.3
+182,Djibouti,Africa,6.3,4.1
+183,South Sudan,Africa,4.9,4.8
+184,Chad,Africa,7.3,2.3
+185,Eritrea,Africa,5.0,3.9
+186,Burkina Faso,Africa,7.7,1.4
+187,Niger,Africa,5.4,1.7

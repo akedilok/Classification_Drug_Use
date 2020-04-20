@@ -1,0 +1,106 @@
+,country,continent,divorce_rate
+0,Albania,Europe,24.36
+1,Algeria,Africa,15.84
+2,Armenia,Europe,16.67
+3,Australia,Oceania,43.48
+4,Austria,Europe,35.29
+5,Azerbaijan,Asia,15.46
+6,Bahamas,North America,16.39
+7,Bangladesh,Asia,34.48
+8,Belarus,Europe,44.57
+9,Belgium,Europe,53.85
+10,Bermuda,,25.47
+11,Bosnia and Herzegovina,Europe,12.5
+12,Brazil,South America,21.21
+13,Bulgaria,Europe,39.47
+14,Canada,North America,47.73
+15,Chile,South America,21.21
+16,China,Asia,30.11
+17,Colombia,South America,30.43
+18,Costa Rica,North America,47.17
+19,Croatia,Europe,34.69
+20,Cuba,North America,55.77
+21,Cyprus,Asia,30.67
+22,Czech Republic,Europe,50
+23,Denmark,Europe,55.56
+24,Dominican Republic,North America,40.91
+25,Ecuador,South America,19.64
+26,Egypt,Africa,17.27
+27,El Salvador,North America,22.86
+28,Estonia,Europe,50
+29,EU,,44.19
+30,Finland,Europe,55.56
+31,France,Europe,54.29
+32,Georgia,Asia,18.84
+33,Germany,Europe,40
+34,Gibraltar,,47.76
+35,Grenada,North America,22
+36,Greece,Europe,21.74
+37,Guatemala,North America,31.58
+38,Hungary,Europe,37.74
+39,Iceland,Europe,36.73
+40,India,Asia,17.95
+41,Iran,Asia,14.29
+42,Ireland,Europe,14.89
+43,Israel,Asia,27.69
+44,Italy,Europe,47.06
+45,Jamaica,North America,20
+46,Japan,Asia,34.69
+47,Jordan,Asia,25.49
+48,Kazakhstan,Asia,26.74
+49,Kuwait,Asia,42.31
+50,Kyrgyzstan,Asia,16.49
+51,Latvia,Europe,46.97
+52,Lebanon,Asia,16.84
+53,Libya,Africa,23.15
+54,Liechtenstein,Europe,48
+55,Lithuania,Europe,41.89
+56,Luxembourg,Europe,65.63
+57,Malta,Europe,11.94
+58,Mauritius,Africa,17.07
+59,Mexico,North America,17.31
+60,Moldova,Europe,42.47
+61,Mongolia,Asia,32.35
+62,Montenegro,Europe,21.57
+63,Netherlands,Europe,52.63
+64,New Zealand,Oceania,41.67
+65,Nicaragua,North America,17.78
+66,North Macedonia,Europe,15.63
+67,Norway,Europe,42.22
+68,Panama,North America,27.03
+69,Poland,Europe,33.33
+70,Portugal,Europe,70.97
+71,Qatar,Asia,33.33
+72,Romania,Europe,22.06
+73,Russia,Europe,52.17
+74,Saint Lucia,North America,25
+75,Saint Vincent and the Grenadines,North America,13.79
+76,San Marino,Europe,40.98
+77,Saudi Arabia,Asia,21.15
+78,Serbia,Europe,25.49
+79,Seychelles,Africa,10.92
+80,Singapore,Asia,27.94
+81,Slovakia,Europe,30.91
+82,Slovenia,Europe,37.5
+83,South Africa,Africa,17.14
+84,South Korea,Asia,38.18
+85,Spain,Europe,56.76
+86,Sri Lanka,Asia,
+87,Suriname,South America,30.95
+88,Sweden,Europe,44.44
+89,Switzerland,Europe,40
+90,Syria,Asia,12.26
+91,Taiwan,Asia,
+92,Tajikistan,Asia,10.37
+93,Thailand,Asia,25.45
+94,Tonga,Oceania,16.9
+95,Trinidad and Tobago,North America,34.92
+96,Turkey,Asia,21.33
+97,Ukraine,Europe,41.79
+98,United Arab Emirates,Asia,25
+99,United Kingdom,Europe,40.91
+100,United States,North America,42.03
+101,Uruguay,South America,
+102,Uzbekistan,Asia,14.1
+103,Venezuela,South America,36.36
+104,Vietnam,Asia,7.02
